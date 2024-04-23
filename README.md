@@ -33,11 +33,11 @@ I made three relatively simple models: KNN, Multilayer Perceptron (MLP), and Nai
 
 ## Contribution
 
-Training models - Tuning basic parameters on the models (KNN and MLP) to improve performance
-Data preparation - prepreprocess and vectorize dataset
+- Training models - Tuning basic parameters on the models (KNN and MLP) to improve performance
+- Data preparation - prepreprocess and vectorize dataset
 
 ## Limitation
 
-Trained on 100 subreddit threads (limited output to these subreddits)
-Issue with Thread being to long
-Issue with Threads containing multiple specific topics
+- Trained on 100 subreddit threads (limited output to these subreddits)
+- Issue with Thread being to long
+- Issue with Threads containing multiple specific topics
